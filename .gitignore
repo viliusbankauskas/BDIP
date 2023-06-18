@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+
+ui/node_modules
+server/*.jpg
+server/.vscode
+server/__pycache__
